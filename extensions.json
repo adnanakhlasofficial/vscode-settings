@@ -1,0 +1,21 @@
+[
+  { "id": "be5invis.vscode-custom-css", "version": "7.4.7" },
+  { "id": "bradlc.vscode-tailwindcss", "version": "0.14.26" },
+  { "id": "catppuccin.catppuccin-vsc", "version": "3.18.0" },
+  { "id": "catppuccin.catppuccin-vsc-icons", "version": "1.24.0" },
+  { "id": "christian-kohler.npm-intellisense", "version": "1.4.5" },
+  { "id": "christian-kohler.path-intellisense", "version": "2.10.0" },
+  { "id": "daltonmenezes.aura-theme", "version": "2.1.2" },
+  { "id": "dbaeumer.vscode-eslint", "version": "3.0.16" },
+  { "id": "dsznajder.es7-react-js-snippets", "version": "4.4.3" },
+  { "id": "esbenp.prettier-vscode", "version": "11.0.0" },
+  { "id": "jasonnutter.search-node-modules", "version": "1.3.0" },
+  { "id": "jawandarajbir.react-vscode-extension-pack", "version": "1.0.0" },
+  { "id": "miguelsolorio.symbols", "version": "0.0.24" },
+  { "id": "ms-vscode.live-server", "version": "0.4.15" },
+  { "id": "pkief.material-icon-theme", "version": "5.27.0" },
+  { "id": "streetsidesoftware.code-spell-checker", "version": "4.2.6" },
+  { "id": "usernamehw.errorlens", "version": "3.26.0" },
+  { "id": "xabikos.javascriptsnippets", "version": "1.8.0" },
+  { "id": "xabikos.reactsnippets", "version": "2.4.0" }
+]
